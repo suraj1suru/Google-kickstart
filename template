@@ -1,0 +1,31 @@
+#include<bits/stdc++.h>
+typedef long long ll; 
+using namespace std;
+/*-------------------------------------suraj1___suru-----------------------------------------------*/
+
+
+void solveTestCase()
+{  
+   
+}
+
+int32_t  main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+    int t;
+    cin>>t;
+    int i = 1;
+    while(t--)
+    {
+        cout<<" Case #"<<i<<": ";
+        solve();
+        cout<<endl;
+        ++i;
+    }
+    return 0;
+}
+
+
+
+
